@@ -1,5 +1,5 @@
 # attendEase
-python program with database that uses opencv and face_recognition to automatically detect and identify a registered person/student
+a simple python program with database that uses opencv and face_recognition to automatically detect and identify a registered person/student
 
 ![image](https://github.com/Nasamid/attendEase/assets/108247941/c7ab0fa5-a142-4ef8-8213-d867239af8bd)
 
